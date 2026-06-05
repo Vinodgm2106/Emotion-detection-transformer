@@ -51,7 +51,7 @@ This project aims to:
   - Confidence score
 
 ---
-
+```text
 ## 📁 Project Structure
 Emotion-Detection-Transformer/
 │
@@ -70,7 +70,7 @@ Emotion-Detection-Transformer/
 │
 └── outputs/
 └── logs/
-
+```
 ---
 
 ##  Tech Stack
